@@ -3,6 +3,9 @@
 音量を固定するためのアプリ
 for Android
 
+<img height="500" alt="Screenshot_20260628-055701" src="https://github.com/user-attachments/assets/91720f08-d178-4fd8-90ca-8fa7e0e11823" />
+
+
 ## Why?
 
 〇〇PayやらP◯yP◯yやら、決済音を出すことを強制するのにデバイス自体のメディア音量をグローバルで上げてくるのですよ。
@@ -18,9 +21,16 @@ for Android
 そして音量ゼロだけではなく、音量レベル指定値での固定もできます。
 途中、本アプリからの調整もできます。
 
+## Install
+
+- releaseからapkダウンロード
+- ファイルからインストール
+
 ## 必要権限
 
 - FOREGROUND_SERVICE
   - 常駐サービスのため
 - POST_NOTIFICATIONS
   - 常駐通知、アプリ復帰用
+
+<img width="500" alt="Screenshot_20260628-055729~2" src="https://github.com/user-attachments/assets/cbed31b5-532c-493c-b113-ae562c2a5b33" />
